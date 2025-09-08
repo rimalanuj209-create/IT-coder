@@ -1,2 +1,3 @@
 # IT-coder
-I am a beginer and this is my first git repository
+I am a beginer and this is my first git repository.
+i have skill like(HTML, CSS).
